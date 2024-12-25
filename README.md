@@ -1,26 +1,32 @@
 # 🌟 Nabila Majeed 🌟  
-**Android Developer | Creator of Seamless Experiences | Problem Solver**  
+**Android & Flutter Developer | Creator of Seamless Experiences | Problem Solver**  
 
-👋 Hello, world! I’m Nabila, an Android developer with **4 years of experience** transforming ideas into beautifully designed and functional mobile applications. My goal? To craft apps that don’t just work—they delight!  
+👋 Hello, world! I’m Nabila, a mobile app developer with **4 years of experience** crafting beautifully designed and functional applications for Android and Flutter. My goal? To create apps that don’t just work—they delight!  
 
 ---
 
 ## 💻 **What I Do**  
-I design, develop, and debug Android applications, bringing innovation to life through:  
-- **Java & Kotlin** expertise for scalable and maintainable code.  
+I design, develop, and debug mobile applications, bringing innovation to life through:  
+- **Java & Kotlin** expertise for scalable and maintainable Android code.  
+- **Dart and Flutter** for crafting stunning cross-platform apps.  
 - **API integration** using tools like Retrofit and Volley for seamless data handling.  
 - **Firebase enhancements** for authentication, real-time databases, and cloud functionality.  
-- **UI/UX design** guided by Material Design principles, creating intuitive user journeys.  
-- **SQLite** for efficient local storage solutions.  
+- **UI/UX design** guided by Material Design principles and Flutter widgets.  
+- **SQFLite RoomDataBase** for efficient local storage solutions.  
 
 ---
 
 ## 🛠️ **Developer's Toolbox**  
-- **Languages**: Java, Kotlin, XML  
-- **Libraries & Tools**: Retrofit, Volley, Firebase, SQLite  
-- **Principles**: Material Design, MVVM, MVP  
-- **Platforms**: Android Studio, Git  
-
+- **Languages**: Java, Kotlin, Dart, XML  
+- **Libraries & Tools**: Retrofit, Volley, Firebase, SQLite, Flutter SDK  
+- **Principles**: Material Design, MVVM, MVP, GetX,Bloc 
+- **Platforms**: Android Studio, Visual Studio Code, Git
+---
+### 📊 **Other Tools & Technologies**  
+- **Microsoft Word, PowerPoint**: Documentation and presentations.  
+- **Canva**: Designing marketing and promotional materials.
+- **Figma**: Designing UI for Small apps. 
+- **Adobe Suite**: Graphics editing and Social Post creation.  
 ---
 
 ## 🖋️ **Journey in Tech**  
@@ -29,6 +35,7 @@ My career began with a thirst for knowledge and a passion for mobile development
 - Implements APIs to seamlessly connect applications with powerful web services.  
 - Solves complex problems with a methodical approach and clean code.  
 - Creates high-quality apps that deliver exceptional user experiences.  
+- Builds cross-platform apps using Flutter, ensuring consistent performance and design across Android and iOS.  
 
 ---
 
@@ -36,6 +43,7 @@ My career began with a thirst for knowledge and a passion for mobile development
 - **4 years of app development experience**, turning concepts into reality.  
 - Mastered integrating Google Ads and Firebase to enhance app functionality.  
 - Streamlined app performance by following advanced design patterns like MVVM and MVP.  
+- Delivered cross-platform Flutter applications that meet both Android and iOS standards.  
 - Continuously refined my skills through hands-on development and collaboration.  
 
 ---
